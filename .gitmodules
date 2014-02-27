@@ -1,0 +1,6 @@
+[submodule "packages/moz-showforpage"]
+	path = packages/moz-showforpage
+	url = git@github.com:voxpelli/moz-showforpage.git
+[submodule "packages/moz-urlbarbutton"]
+	path = packages/moz-urlbarbutton
+	url = git@github.com:voxpelli/moz-urlbarbutton.git
